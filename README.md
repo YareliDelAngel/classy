@@ -1,1 +1,1 @@
-# classy
+# clase-tiendapedido
